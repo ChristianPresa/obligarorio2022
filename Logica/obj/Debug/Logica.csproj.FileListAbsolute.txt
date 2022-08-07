@@ -1,0 +1,9 @@
+D:\Bios\Segundo Año\Obligatorio\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Bios\Segundo Año\Obligatorio\Logica\bin\Debug\Logica.dll
+D:\Bios\Segundo Año\Obligatorio\Logica\bin\Debug\Logica.pdb
+D:\Bios\Segundo Año\Obligatorio\Logica\bin\Debug\Mensajes.dll
+D:\Bios\Segundo Año\Obligatorio\Logica\bin\Debug\Persistencia.dll
+D:\Bios\Segundo Año\Obligatorio\Logica\bin\Debug\Persistencia.pdb
+D:\Bios\Segundo Año\Obligatorio\Logica\bin\Debug\Mensajes.pdb
+D:\Bios\Segundo Año\Obligatorio\Logica\obj\Debug\Logica.dll
+D:\Bios\Segundo Año\Obligatorio\Logica\obj\Debug\Logica.pdb

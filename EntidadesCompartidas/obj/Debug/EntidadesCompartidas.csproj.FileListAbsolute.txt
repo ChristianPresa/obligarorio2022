@@ -1,0 +1,10 @@
+D:\Bios\Segundo Año\Obligatorio\Obligatorio\Mensajes\bin\Debug\Mensajes.dll
+D:\Bios\Segundo Año\Obligatorio\Obligatorio\Mensajes\bin\Debug\Mensajes.pdb
+D:\Bios\Segundo Año\Obligatorio\Obligatorio\Mensajes\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+D:\Bios\Segundo Año\Obligatorio\Obligatorio\Mensajes\obj\Debug\Mensajes.dll
+D:\Bios\Segundo Año\Obligatorio\Obligatorio\Mensajes\obj\Debug\Mensajes.pdb
+D:\Bios\Segundo Año\Obligatorio\EntidadesCompartidas\bin\Debug\Mensajes.dll
+D:\Bios\Segundo Año\Obligatorio\EntidadesCompartidas\bin\Debug\Mensajes.pdb
+D:\Bios\Segundo Año\Obligatorio\EntidadesCompartidas\obj\Debug\Mensajes.dll
+D:\Bios\Segundo Año\Obligatorio\EntidadesCompartidas\obj\Debug\Mensajes.pdb
+D:\Bios\Segundo Año\Obligatorio\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache

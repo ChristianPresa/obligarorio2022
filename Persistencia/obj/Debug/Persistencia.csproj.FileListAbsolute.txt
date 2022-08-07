@@ -1,0 +1,7 @@
+D:\Bios\Segundo Año\Obligatorio\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+D:\Bios\Segundo Año\Obligatorio\Persistencia\bin\Debug\Persistencia.dll
+D:\Bios\Segundo Año\Obligatorio\Persistencia\bin\Debug\Persistencia.pdb
+D:\Bios\Segundo Año\Obligatorio\Persistencia\bin\Debug\Mensajes.dll
+D:\Bios\Segundo Año\Obligatorio\Persistencia\bin\Debug\Mensajes.pdb
+D:\Bios\Segundo Año\Obligatorio\Persistencia\obj\Debug\Persistencia.dll
+D:\Bios\Segundo Año\Obligatorio\Persistencia\obj\Debug\Persistencia.pdb
